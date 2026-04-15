@@ -1,91 +1,46 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rohan%20Thakar&fontSize=40&fontColor=ffffff"/>
 # Hi 👋, I'm Rohan Thakar
 
-🚀 Machine Learning & Computer Vision Enthusiast  
-🎓 B.E. Computer Engineering (Expected Apr 2027)  
-📍 Gandhinagar, India  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Computer+Vision+Enthusiast;Hackathon+Finalist;AI+Researcher&center=true&width=500&height=50)
 
 ---
 
 ## 🧠 About Me
-- 💡 Passionate about AI, Deep Learning & Computer Vision  
-- 🧪 Working on real-world ML problems (OCR, Flood Detection, Traffic AI)  
+- 🎓 B.E. Computer Engineering (Expected Apr 2027)  
+- 💡 Interested in AI, Deep Learning & Computer Vision  
 - 🏆 Hackathon Finalist | Research Contributor  
-- 📚 Exploring Quantum Computing & Advanced AI Systems  
-
----
-
-## 🚀 Projects
-
-### 🔹 Syntropy (OCR Error Correction)
-- Reinforcement Learning-based OCR correction system  
-- OpenEnv architecture with structured evaluation & grading  
-
-### 🔹 FloodAssemble
-- Flood detection using IBM–NASA Prithvi models  
-- Improved performance under heavy cloud cover using TerraTorch  
-
-### 🔹 PashuPehchan (SIH 2025)
-- ViT-based cattle breed recognition system  
-- Integrated livestock management features  
-
-### 🔹 Suraksha Sakhi
-- Context-aware women safety system  
-- Real-time risk assessment + emergency response  
-
-### 🔹 FaceShield
-- AI-based face authentication system  
-- Spoof detection using computer vision  
-
----
-
-## 📄 Research & Publications
-- 📌 Paper published in **IEEE Xplore (AIMV 2025)**  
-- 📌 Springer Book Chapter (Quantum Simulation)  
-- 📌 Deepfake Detection Paper (Under Review)  
-- 📌 ZTA-Shield (Cloud Security - Submitted)  
 
 ---
 
 ## 🏆 Achievements
 - 🥇 Finalist – ANRF AISEHack (IIIT Hyderabad + IBM)  
 - 🥇 Finalist – ImpacThon (Top 15 Teams)  
-- 💰 Research Grant (MMPSRPC)  
-- 📖 Co-author – Springer Book Chapter  
+- 📄 Published in IEEE Xplore (AIMV 2025)  
+- 📖 Springer Book Chapter (Accepted)  
 
 ---
 
 ## 🛠️ Tech Stack
-
-### 💻 Languages
-`Python` `C++` `JavaScript` `C`
-
-### 🤖 AI/ML
-`PyTorch` `TensorFlow` `Scikit-learn` `OpenCV`
-
-### 🌐 Web
-`HTML` `CSS` `React`
-
-### ⚙️ Tools
-`Git` `GitHub` `Figma` `Canva`
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 
 ---
 
 ## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Rohan18-03&show_icons=true&theme=tokyonight)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rohan18-03&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan18-03&layout=compact&theme=radical)
-
-![Streak](https://streak-stats.demolab.com?user=Rohan18-03&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=Rohan18-03&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: rpthakar35@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/rohan-thakar-609335326  
-- 🧑‍💻 GitHub: https://github.com/Rohan18-03  
+- 📧 rpthakar35@gmail.com  
+- 💼 LinkedIn: (add your link)
 
 ---
 
-## ⚡ Fun Fact
-I build systems that don’t just predict data — they **understand and improve real-world problems** 🚀
+![Visitor Count](https://komarev.com/ghpvc/?username=Rohan18-03&color=blue)
