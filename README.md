@@ -39,7 +39,7 @@
 
 ## 🌐 Connect With Me
 - 📧 rpthakar35@gmail.com  
-- 💼 LinkedIn: (add your link)
+- 💼 LinkedIn: linkedin.com/in/rohan-thakar-609335326
 
 ---
 
